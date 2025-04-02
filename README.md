@@ -10,7 +10,7 @@ O **Sistema de Academia** é uma aplicação voltada para o gerenciamento eficie
 - 📊 Relatórios e acompanhamento de desempenho  
 
 ## 🛠️ Tecnologias Utilizadas  
-- [Linguagem utilizada] (Java)  
+- JAVA 
 
 ## 📦 Como Executar  
 1. Clone este repositório:  
